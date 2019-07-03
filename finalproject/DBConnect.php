@@ -2,7 +2,7 @@
 class DBConnect
 {
 
-    private $server = "mysql:host=localhost;dbname=news";
+    private $server = "mysql:host=localhost;dbname=cmsdatabase";
 
     private $user = "root";
 
